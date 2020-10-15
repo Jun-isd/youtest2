@@ -1,2 +1,2 @@
-From zembutsu/docker-sample-nginx
+From nginx
 
